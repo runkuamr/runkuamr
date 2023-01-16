@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arunkumar Pathmanaban</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
+- 🌱 I’m currently learning **python programming 🐍**
+
+- 👯 I’m looking to collaborate on **fullstack software development**
+
 - 📫 How to reach me **arunbiomedical05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
